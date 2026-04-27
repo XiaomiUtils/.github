@@ -4,7 +4,7 @@ We are a community dedicated to building open-source tools for Xiaomi enthusiast
 
 ## Current Projects
 
-### [XiaomiUT](https://github.com/XiaomiUtils/XiaomiUT) (Work In Progress)
+### [XiaomiUT](https://github.com/XiaomiUtils/XiaomiUT) (Work In Progress) - https://miut.siakinnik.com/
 A powerful tool designed to search for official Xiaomi firmware and provide direct links to official mirrors for fast, secure downloads.
 
 - **Status:** 🚧 Under Active Development (WIP)
